@@ -1,24 +1,12 @@
-# README
+# WELCOME TO ALPHA-BLOG STUDYING PROJECT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Great to see you here!
 
-Things you may want to cover:
+This was an studying only application made with the course [https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/](The Complete Ruby on Rails Developer Course).
 
-* Ruby version
+This app was made with the purpose to get deeper into the Ruby on Rails magnific way to make things works greatly!
 
-* System dependencies
+This project is only a CRUD showcase and have no special resources although a lot of explanation of the Rails framework and its workling.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you want to take a look on the functional finished project go right here bellow:
+[https://alpha-blog-samuelfs.herokuapp.com/](AlphaBlog(Heroku) made by Samuel with the course)
